@@ -1,14 +1,14 @@
 ### Hi there, I'm Vladislav Verenich 👋
 
-- 🔭 I’m currently working on **my own project**
+#- 🔭 I’m currently working on **my own project**
 
-- 🌱 I’m currently learning **C++**
+#- 🌱 I’m currently learning **C++**
 
-- 🤔 I’m looking for **a job offer**
+#- 🤔 I’m looking for **a job offer**
 
-- 📫 How to reach me **vverchickktv@gmail.com**
+#- 📫 How to reach me **vverchickktv@gmail.com**
 
-- ⚡ Fun fact: **I do lots of things**
+#- ⚡ Fun fact: **I do lots of things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

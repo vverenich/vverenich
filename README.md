@@ -1,4 +1,4 @@
-## Hi there, I'm Vladislav Verenich 👋𝖋𝖆𝖓𝖈𝖞 𝖙𝖊𝖝𝖙
+## Hi there, I'm Vladislav Verenich 👋 
 
 ### - 🔭 I’m currently working on **my own project**
 

@@ -4,8 +4,6 @@
 
 ### - 🌱 I’m currently learning **C++**
 
-### - 🤔 I’m looking for **a job offer**
-
 ### - 📫 How to reach me **vverchickktv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
